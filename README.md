@@ -3,7 +3,21 @@
 "What I cannot create, I do not understand"
 Richard Phillips Feynman
 
-Python implementations (on jupyter notebook) of algorithms described in the book "PRML"
+## notebooks
+
+* chapter 3 : [Bayesian Linear Regression](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/LinReg_Bayes_PRML.ipynb)
+
+## About the repository
+
+The book "Pattern Recognition and Machine Learning" by C. M. Bishop is one of the most famous textbooks on machine learning. 
+Although the book describes diverse algorithms of machine learning in depth, it barely touches on the implementation of these algorithms.
+
+Hence, I wrote these notebooks to understand how these algorithms can be implemented. 
+The aim of these notebooks is to understand how the algorithms can be implemented step by step, and each notebook describes which part of the equation shown in the book corresponds to which part of the code. 
+
+Although these notebooks are mainly written for myself, I will be glad if they would be helpful for people who are reading the book. 
+
+To view the notebooks, please see the links above.
 
 ## Required packages 
 * Python 3 ( >= 3.5)
@@ -12,6 +26,3 @@ Python implementations (on jupyter notebook) of algorithms described in the book
 * jupyter notebook
 * matplotlib
 
-## notebooks
-
-* chapter 3 : [Bayesian Linear Regression](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/LinReg_Bayes_PRML.ipynb)
