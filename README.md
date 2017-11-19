@@ -11,7 +11,7 @@ Richard Phillips Feynman
 ## About the repository
 
 The book "Pattern Recognition and Machine Learning" by C. M. Bishop is one of the most famous textbooks on machine learning. 
-Although the book describes diverse algorithms of machine learning in depth, it barely touches on the implementation of these algorithms.
+Although the book describes diverse algorithms of machine learning in depth from theoretical perspectives, it barely touches on the implementation of these algorithms.
 
 Hence, I wrote these notebooks. 
 The aim of these notebooks is to understand how the algorithms can be implemented step by step, and each notebook describes which part of the equation shown in the book corresponds to which part of the code. 
