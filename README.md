@@ -7,6 +7,7 @@ Richard Phillips Feynman
 
 * chapter 3 : [Bayesian Linear Regression](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/LinReg_Bayes.ipynb)
 * chapter 5 : [Feedforward Neural Networks](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/NeuralNet.ipynb)
+* chapter 6 : [Gaussian Process Regression](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GPRegression.ipynb)
 
 ## About the repository
 
