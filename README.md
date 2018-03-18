@@ -10,6 +10,7 @@ Richard Phillips Feynman
 * chapter 6 : [Gaussian Process Regression](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GPRegression.ipynb)
 * chapter 7 : [Support Vector Classification](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/SVMclassification.ipynb)
 * chapter 9 : [Expectation Maximization algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GaussianMixture_EM.ipynb)
+* chapter 9 : [Variational Inference](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GaussianMixture_VI.ipynb)
 
 
 ## About the repository
