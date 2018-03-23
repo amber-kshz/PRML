@@ -11,7 +11,7 @@ Richard Phillips Feynman
 * chapter 7 : [Support Vector Classification](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/SVMclassification.ipynb)
 * chapter 9 : [Expectation Maximization algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GaussianMixture_EM.ipynb)
 * chapter 10 : [Variational Inference](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GaussianMixture_VI.ipynb)
-
+* chapter 11 : [Metropolis-Hastings algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/MCMC-MH.ipynb)
 
 ## About the repository
 
