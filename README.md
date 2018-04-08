@@ -12,6 +12,7 @@ Richard Phillips Feynman
 * chapter 9 : [Expectation Maximization algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GaussianMixture_EM.ipynb)
 * chapter 10 : [Variational Inference](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GaussianMixture_VI.ipynb)
 * chapter 11 : [Metropolis-Hastings algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/MCMC-MH.ipynb)
+* chapter 12 : [Probabilistic PCA](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/PPCA.ipynb)
 
 ## About the repository
 
