@@ -27,7 +27,7 @@ To view the notebooks, please see the links below.
 * chapter 11 : [Metropolis-Hastings algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/MCMC-MH.ipynb)
 * chapter 12 : [Probabilistic PCA](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/PPCA.ipynb)
 * chapter 13 : [Hidden Markov Models](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/HMM.ipynb)
-* chapter 14 : [Bagging and AdaBoost](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/bagging-adaboost.ipynb)
+* chapter 14 : [Bagging and AdaBoost](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Bagging-AdaBoost.ipynb)
 
 ## Required packages 
 * Python 3 ( >= 3.5)
