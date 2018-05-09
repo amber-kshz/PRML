@@ -15,6 +15,7 @@ Although these notebooks are mainly written for myself, I will be glad if they w
 
 To view the notebooks, please see the links below.
 
+Note : Currently, there are some equations that do not render properly in some notebooks. I'm trying to fix it now.
 
 ## notebooks
 
