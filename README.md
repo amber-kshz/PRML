@@ -20,6 +20,7 @@ Note : Currently, there are some equations that do not render properly in some n
 ## notebooks
 
 * chapter 3 : [Bayesian Linear Regression](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/LinReg_Bayes.ipynb)
+* chapter 4 : [Logistic Regression](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/LogisticClassification.ipynb)
 * chapter 5 : [Feedforward Neural Networks](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/NeuralNet.ipynb)
 * chapter 6 : [Gaussian Process Regression](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GPRegression.ipynb)
 * chapter 7 : [Support Vector Classification](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/SVMclassification.ipynb)
