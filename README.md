@@ -37,4 +37,4 @@ Note : Currently, there are some equations that do not render properly in some n
 * scipy
 * jupyter notebook
 * matplotlib
-
+* scikit-learn (mainly for loading datasets)
