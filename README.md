@@ -1,5 +1,7 @@
 # PRML
 
+NOTE : Currently, the notebooks in the respository is undergoing drastic rewriting, including code refactoring. The notebook for Chapter 3 is fixed, while notebooks for Chapter 4 and succeeding chapters has not been finished yet.
+
 "What I cannot create, I do not understand"
 Richard Phillips Feynman
 
