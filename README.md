@@ -1,6 +1,6 @@
 # PRML
 
-NOTE : Currently, the notebooks in the respository are undergoing major revision. The notebook for Chapters 3, 4, 5, 6, 7, 9, 10 are almost fixed, while notebooks for Chapters 11 and succeeding chapters has not been finished yet.
+NOTE : Currently, the notebooks in the respository are undergoing major revision. The notebook for Chapters 3, 4, 5, 6, 7, 9, 10, 11 are almost fixed, while notebooks for Chapters 12 and succeeding chapters has not been finished yet.
 
 "What I cannot create, I do not understand"
 Richard Phillips Feynman
@@ -26,7 +26,7 @@ To view the notebooks, please see the links below.
 * chapter 7 : [Support Vector Classification](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/SVMclassification.ipynb)
 * chapter 9 : [Expectation Maximization algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GaussianMixture_EM.ipynb)
 * chapter 10 : [Variational Inference](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/GaussianMixture_VI.ipynb)
-* chapter 11 : [Metropolis-Hastings algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/MCMC-MH.ipynb)
+* chapter 11 : [Metropolis-Hastings algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/MCMC.ipynb)
 * chapter 12 : [Probabilistic PCA](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/PPCA.ipynb)
 * chapter 13 : [Hidden Markov Models](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/HMM.ipynb)
 * chapter 14 : [Bagging and AdaBoost](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Bagging-AdaBoost.ipynb), [Decision Tree Classifier](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/DecisionTree.ipynb)
