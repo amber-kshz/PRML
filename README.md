@@ -33,6 +33,6 @@ To view the notebooks, please see the links below.
 * Python 3 ( >= 3.5)
 * numpy 
 * scipy
-* jupyter notebook
+* jupyter notebook or lab
 * matplotlib
 * scikit-learn (mainly for loading datasets)
