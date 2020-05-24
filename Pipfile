@@ -11,6 +11,3 @@ scipy = "*"
 matplotlib = "*"
 scikit-learn = "*"
 jupyterlab = "*"
-
-[requires]
-python_version = "3.7"

@@ -24,7 +24,7 @@ To view the notebooks, please see the links below.
 * chapter 7 : [Support Vector Machine](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Ch07_Support_Vector_Machine.ipynb)
 * chapter 9 : [Expectation Maximization algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Ch09_EM_Algorithm_for_Gaussian_Mixture_Model.ipynb)
 * chapter 10 : [Variational Inference](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Ch10_Variational_Inference_for_Gaussian_Mixture_Model.ipynb)
-* chapter 11 : [Metropolis-Hastings algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Ch11_MCMC.ipynb)
+* chapter 11 : [Metropolis-Hastings algorithm](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Ch11_MCMC.ipynb), [Hamiltonian Monte Carlo](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Ch11_HMC.ipynb)
 * chapter 12 : [Probabilistic PCA](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Ch12_Probabilistic_PCA.ipynb)
 * chapter 13 : [Hidden Markov Models](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Ch13_Hidden_Markov_Model.ipynb)
 * chapter 14 : [Bagging and AdaBoost](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Ch14_Bagging_and_AdaBoost.ipynb), [Decision Tree Classifier](https://nbviewer.jupyter.org/github/amber-kshz/PRML/tree/master/notebooks/Ch14_Decision_Tree.ipynb)
